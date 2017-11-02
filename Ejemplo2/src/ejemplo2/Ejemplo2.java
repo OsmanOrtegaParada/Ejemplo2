@@ -18,6 +18,7 @@ public class Ejemplo2 {
         // TODO code application logic here
         System.out.println("HELLO WORLD 1");
         System.out.println("HELLO WORLD 2");
+        System.out.println("HELLO WORLD 3");
     }
     
 }
